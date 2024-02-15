@@ -5,6 +5,9 @@ This is a simple graphical user interface (GUI) calculator written in Python usi
 
 ## Screenshots 
 
-- Homepage 
+- Calculator 
 
-  ![Screenshot](cacl.png)
+  ![Screenshot](calc.png)
+
+-Calculator Menu
+  ![Screenshot](calc_menu.png)

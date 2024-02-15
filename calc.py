@@ -42,6 +42,12 @@ if  __name__ == "__main__":
 
     window.geometry("400x280")
 
+    menu = Menu(window)
+    item = Menu(menu)
+    item.add_command(label="New Calculator")
+    menu.add_cascade(label="File", menu=item)
+    window.config(menu=menu)
+
     equation = StringVar()
 
     expression_field = Entry(window, textvariable=equation)
