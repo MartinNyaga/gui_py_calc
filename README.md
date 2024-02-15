@@ -10,4 +10,5 @@ This is a simple graphical user interface (GUI) calculator written in Python usi
   ![Screenshot](calc.png)
 
 - Calculator Menu
+
   ![Screenshot](calc_menu.png)
